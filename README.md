@@ -8,21 +8,20 @@ Welcome to the Ben_10 implemented in Java.
 | Screenshot                                       | Description                |
 |--------------------------------------------------|----------------------------|
 | <img src="/img/loading.png" width="600px"/>          | Loading screen             |
-| <img src="\img/asking_name.png" width="600px"/>      | Prompt for player's name   |
+| <img src="/img/asking_name.png" width="600px"/>      | Prompt for player's name   |
 | <img src="/img/starting_page.png" width="700px" height ="500px"/>    | Starting page              |
 | <img src="/img/attack1.png"  width="700px" height ="500px"/>          | Attack scene 1             |
 | <img src="/img/attack2.png"  width="700px" height ="500px"/>          | Attack scene 2             |
 | <img src="/img/game_over.png"  width="700px" height ="500px"/>        | Game over screen           |
 
-
-
 ---
 
 ## Video
 
-[![Gameplay Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
-Click the image above to watch the gameplay video.
+https://github.com/raihan40/Ben10_game/assets/86623443/ea655877-a298-4420-8100-7dc143e27e01
+
+
 
 ---
 
