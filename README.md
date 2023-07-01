@@ -7,12 +7,12 @@ Welcome to the Ben_10 implemented in Java.
 
 | Screenshot                                       | Description                |
 |--------------------------------------------------|----------------------------|
-| <img src="/img/loading.png" width="600px"/>          | Loading screen             |
-| <img src="/img/asking_name.png" width="600px"/>      | Prompt for player's name   |
-| <img src="/img/starting_page.png" width="700px" height ="500px"/>    | Starting page              |
-| <img src="/img/attack1.png"  width="700px" height ="500px"/>          | Attack scene 1             |
-| <img src="/img/attack2.png"  width="700px" height ="500px"/>          | Attack scene 2             |
-| <img src="/img/game_over.png"  width="700px" height ="500px"/>        | Game over screen           |
+|![loading](https://github.com/raihan40/Ben10_game/assets/86623443/eff04a4f-102a-4757-b4ce-225ad23d3099)|Loading screen|
+|![asking_name](https://github.com/raihan40/Ben10_game/assets/86623443/7aab1e7a-0f31-4ab0-8b43-30d629cbd8d8)|Prompt for player's name|
+|![starting_page](https://github.com/raihan40/Ben10_game/assets/86623443/cb7868cc-5f07-47c4-a6f6-fe3be4a4525b)| Starting page|
+|![attack1](https://github.com/raihan40/Ben10_game/assets/86623443/14fa2a55-310e-44b8-86ce-57a866a58250)|Attack scene 1|
+|![attack2](https://github.com/raihan40/Ben10_game/assets/86623443/80161510-1c50-41eb-9e20-47337105d13d)|Attack scene 2|
+|![game_over](https://github.com/raihan40/Ben10_game/assets/86623443/ea2561b5-edfe-4582-a5eb-a0d5dfa8053a)|Game over screen|
 
 ---
 
